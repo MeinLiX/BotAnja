@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+net5.0/
+ref/
+
+# DB
+*.db
+
+# {todo}
+Configuration.cs
